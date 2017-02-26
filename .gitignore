@@ -1,0 +1,8 @@
+.idea
+
+/scala/project/*-shim.sbt
+/scala/project/project/
+/scala/project/target/
+/scala/target/
+
+js/npm-debug.log
